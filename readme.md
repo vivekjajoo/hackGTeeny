@@ -1,2 +1,2 @@
 Hello. This is at hackGTeeny.
-Added Ashay, Ronak and Camden.
+Just starting to work on our project.
