@@ -1,0 +1,23 @@
+#Submit {
+  color: currentColor;
+background-color: yellow;
+padding: 10px;
+border-color: black;
+margin: 5px;
+}
+
+body {
+  background-color: #B4282E;
+  background-image: url(http://media1.fl.yelpcdn.com/img/logo/yelp_og_image.png);
+  background-repeat: no-repeat;
+
+  position: c;
+  background-position: top;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: block;
+  margin: 0;
+  font-size: 17px;
+  text-align: center;
+}
